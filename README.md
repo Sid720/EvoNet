@@ -39,7 +39,7 @@ Training continues with the new structure.
 This approach makes the model more flexible and demonstrates the concept of adaptive architecture design.
 
 ## Live Demo
-
+https://evonet-mvhfgvwaebburmwht7exrg.streamlit.app
 
 ## Why This Project:
 EvoNet is useful as a learning project for understanding:
